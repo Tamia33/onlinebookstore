@@ -30,12 +30,12 @@
 		<repository> 	     
 			<id>nexus</id> 	      
 			<name>Koftown Tech Releases Nexus Repository</name> 	     
-			<url>http://http://18.117.252.126:8081/repository/onlinebookstore-Realeases/</url> 	  
+			<url>http://18.117.252.126:8081/repository/onlinebookstore-Realeases/</url> 	  
 		</repository> 	     	   
 		<snapshotRepository> 	      
 			<id>nexus</id> 	     
 			<name>Koftown Tech Snapshot Nexus Repository </name> 	      
-			<url>http://http://18.117.252.126:8081/repository/onlinebookstore-snapshots/</url> 
+			<url>http://18.117.252.126:8081/repository/onlinebookstore-snapshots/</url> 
 			   </snapshotRepository> 	     	
 	
 		</distributionManagement	
